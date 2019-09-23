@@ -1,2 +1,2 @@
 # JavaFX_HW
-homework
+homework - ToDo: ~500 words
